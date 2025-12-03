@@ -34,6 +34,26 @@ A modern, responsive Client Portal and AI-powered Support Chatbot application bu
 - Role-based access control (Admin vs. Client).
 - Password reset functionality.
 
+## Screenshots
+
+### Home Page
+![Home Page](./screenshots/screenshot-home-page.png)
+
+### Dashboard
+![Dashboard](./screenshots/screenshot-dashboard-page.png)
+
+### Client Management
+![Client Page](./screenshots/screenshot-client-page.png)
+
+### Ticket System
+![Ticket Page](./screenshots/screenshot-ticket-page.png)
+
+### Overview
+![Overview Page](./screenshots/screenshot-overview-page.png)
+
+### User Profile
+![Profile Page](./screenshots/screenshot-profile-page.png)
+
 ## Technology Stack
 
 - **Backend:** Laravel 12 (PHP 8.2+)
